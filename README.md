@@ -1,16 +1,25 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=LosKamilos91&color=ff69b4&style=for-the-badge)
+<a href="https://www.facebook.com/kamil.orzechowski.39">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="mailto:k91.orzechowski@gmail.com?">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<!--
-**LosKamilos91/LosKamilos91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi. My name is Kamil and I have 30 years old. <br>
+I am a beginner programmer currently specialising mainly in **C#** language, but in the future, I want to learn new programming languages. In my younger days I was exposed to **HTML**, **CSS** - I created forums and **LUA**, where I created scripts for the game GTA San Andreas.  Multiplayer. I am a friendly person and a fast learner. In my free time I enjoy playing sports and spending time with my family.
+<p align="center">
+<img width="64" src="https://cdn-icons-png.flaticon.com/512/502/502142.png">
+<img width="64" src="https://cdn-icons-png.flaticon.com/512/3379/3379077.png">
+<img width="64" src="https://cdn-icons-png.flaticon.com/512/2964/2964514.png">
+</p>
+<p align="center">
+<img width="500" src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif" alt="background">
+</p>
 
-Here are some ideas to get you started:
+# Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - **Desktop**: Forms, C#,
+ - **Frontend**: C#,
+ - **Database**: SQL Server, MySQL,
+ - **VCS**: Git, GitHub,
+ - **IDE's**: Visual Studio, Visual Studio Code,
+
+More soon.
