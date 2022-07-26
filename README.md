@@ -165,6 +165,15 @@ SOON
 		</tr>
 </table>
 
+> Currently I learning:
+
+<table>
+		<tr>
+		<th>WPF</th>
+		<th>XML</th>
+		</tr>
+</table>
+
 ---
  
  ##### Currently working at: 
