@@ -58,11 +58,14 @@ I am a beginner programmer currently specialising mainly in <b>C#</b> language, 
 
 > Currently working on projects: 
 
-SOON
+1. **Simple calculator Windows**,
+2. **Vehicle register** - repairs, consumption, cost of refuelling,
+3. **Company's customer contact book**,
 
 > Projects for the future:
 
-SOON
+1. **Gym app** - training information, possibility to create a training plan, etc.
+2. **Instalments App** - possibility of recording instalments,
 
 ## Tech Stack
 
