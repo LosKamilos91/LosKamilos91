@@ -34,7 +34,7 @@ I am a beginner programmer currently specialising mainly in <b>C#</b> language, 
 
 <table>
 		<tr>
-			<th><a href="https://github.com/LosKamilos91/Remuneration-project">renumeration-project</a></th>
+			<th><a href="https://github.com/LosKamilos91/gym-calculators">gym-calculators</a></th>
 			<th><a href="https://github.com/LosKamilos91/Custom-messages-display">Custom-messages-display</a></th>
 			<th><a href="https://github.com/LosKamilos91/simulator-lotto">Lotto-simulator</a></th>
 	</tr>
