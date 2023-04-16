@@ -41,8 +41,8 @@ I am a beginner programmer currently specialising mainly in <b>C#</b> language, 
 		<tr>
 		<td>
 				<img src="https://img.shields.io/badge/App-Console-%23EF2D5E?style=flat-square"/>
-				<img src="https://img.shields.io/github/languages/top/LosKamilos91/Remuneration-project?color=%23239120&label=C%23&style=flat-square"/>
-				<img src="https://img.shields.io/github/license/LosKamilos91/remuneration-project?style=flat-square"/>
+				<img src="https://img.shields.io/github/languages/top/LosKamilos91/gym-calculators?color=%23239120&label=C%23&style=flat-square"/>
+				<img src="https://img.shields.io/github/license/LosKamilos91/gym-calculators?style=flat-square"/>
 		</td>
 		<td>
 		<img src="https://img.shields.io/badge/-Library-%23337AB7?style=flat-square"/>
