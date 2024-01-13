@@ -49,8 +49,6 @@ Hi. My name is **Kamil**. I am currently a **QA Engineer**. As a tester, I am co
 More on my <a href="https://github.com/LosKamilos91?tab=repositories">Repository</a>
 
 ### My Skills
-<table>
-	Coming Soon
-</table>
+<img src="https://img.shields.io/badge/Automation testing-%46F02032?style=flat-square"/> <img src="https://img.shields.io/badge/-Manual testing-%43F05032?style=flat-square"/> <img src="https://img.shields.io/badge/-Test cases-%46F02032?style=flat-square"/> <img src="https://img.shields.io/badge/-GIT-%23F05032?style=flat-square"/> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square"/> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=flat-square"/> <img src="https://img.shields.io/badge/-Notepad%2B%2B-%2353AC56?style=flat-square"/> <img src="https://img.shields.io/badge/-C%23-%23239120?style=flat-square"/> <img src="https://img.shields.io/badge/-.NET-%23512BD4?style=flat-square"/> <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=flat-square"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square"/> <img src="https://img.shields.io/badge/-SQLite-%23003B57?style=flat-square"/> <img src="https://img.shields.io/badge/-Adobe%20Photoshop-%2331A8FF?style=flat-square"/> <img src="https://img.shields.io/badge/-LibreOffice-%2318A303?style=flat-square"/> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-%23B7472A?style=flat-square"/> <img src="https://img.shields.io/badge/-Microsoft%20Excel-%23217346?style=flat-square"/> <img src="https://img.shields.io/badge/-Microsoft%20Word-%232B579A?style=flat-square"/> ...
 
 > **Note:** I currently working on `soon`.
