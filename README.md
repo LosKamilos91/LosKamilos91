@@ -9,6 +9,8 @@
 ---
 
 # About Me
+> **Languages:** `English`: Pre-Intermediate, `Polish`: Native
+
 Hi. My name is **Kamil**. I am currently a **QA Engineer**. As a tester, I am committed to my daily duties, striving to deliver the best possible product quality. I am a person who likes new challenges and is eager to learn new technologies. In addition, I am a person who is interested in programming in **C#** and creating websites using **HTML** and **CSS**. In my free time, I enjoy playing sports.
 
 <p align="center">
@@ -29,7 +31,26 @@ Hi. My name is **Kamil**. I am currently a **QA Engineer**. As a tester, I am co
 <table>
 	<tr>
 		<td>1.</td>
-		<td>Cypress: "<b>Conduit</b>" with Docker</td>
+		<td>"<b>Conduit</b>" with <b>Docker</b> and <b>Cypress</b></td>
 		<td><a href="https://github.com/LosKamilos91/qa_cypress_e2e_project">Read More</a></td>
 	</tr>
+	<tr>
+		<td>2.</td>
+		<td>Cypress e2e <b>Article Flow</b></td>
+		<td><a href="https://github.com/LosKamilos91/qa_cypress_e2e_article_flow">Read More</a></td>
+	</tr>
+	<tr>
+		<td>3.</td>
+		<td>"Conduit" "<b>User Sign Up</b>" Postman Practice</td>
+		<td><a href="https://lively-station-722503.postman.co/workspace/Bravo-%5BPractice-Postman%5D~a7c87cd6-c33a-4156-8749-56333f544af0/collection/30817307-8ed64240-f62f-4a2b-a94a-1e353a2c3a9d?action=share&creator=30817307">Read More</a></td>
+	</tr>
 </table>
+
+More on my <a href="https://github.com/LosKamilos91?tab=repositories">Repository</a>
+
+### My Skills
+<table>
+	Coming Soon
+</table>
+
+> **Note:** I currently working on `soon`.
