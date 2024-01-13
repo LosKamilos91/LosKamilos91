@@ -27,7 +27,7 @@ Hi. My name is **Kamil**. I am currently a **QA Engineer**. As a tester, I am co
 
 ---
 
-### Tasks & Projects
+### Latest tasks & projects
 <table>
 	<tr>
 		<td>1.</td>
