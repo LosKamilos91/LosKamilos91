@@ -24,6 +24,9 @@ Hi. My name is **Kamil**. I am currently a **QA Engineer**. As a tester, I am co
 <a href="mailto:k.orzechowski.dev@gmail.com?">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/kamil-orzechowski-0b76121ab">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)</a>
 <a href="https://discord.com/channels/LosKamilos#8157">![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)</a>
+<a href="https://stackoverflow.com/users/20157506/nino-91">![Stackoverflow](https://img.shields.io/badge/Stackoverflow-FE7A16.svg?style=flat-square&logo=stack-overflow&logoColor=white)</a>
+<a href="https://www.codewars.com/users/Los.Kamilos">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)</a>
+<a href="https://learn.microsoft.com/pl-pl/users/kamilorzechowski-4499/">![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=flat-square&logo=microsoft&logoColor=white)</a>
 
 ## About My Skills
 
