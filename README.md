@@ -9,7 +9,7 @@
 ---
 
 # About Me
-> **Languages:** `English`: Pre-Intermediate, `Polish`: Native
+> **Languages:** `English`: Intermediate, `Polish`: Native
 
 Hi. My name is **Kamil**. I am currently a **QA Engineer**. As a tester, I am committed to my daily duties, striving to deliver the best possible product quality. I am a person who likes new challenges and is eager to learn new technologies. In addition, I am a person who is interested in programming in **C#** and creating websites using **HTML** and **CSS**. In my free time, I enjoy playing sports.
 
