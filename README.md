@@ -73,5 +73,3 @@ My other skills
 		<td align="center"><a href="https://lively-station-722503.postman.co/workspace/Bravo-%5BPractice-Postman%5D~a7c87cd6-c33a-4156-8749-56333f544af0/collection/30817307-8ed64240-f62f-4a2b-a94a-1e353a2c3a9d?action=share&creator=30817307">Read More</a></td>
 	</tr>
 </table>
-
-> **Note**: I am currently learning about `Selenium`. More about my projects and tasks on my <a href="https://github.com/LosKamilos91?tab=repositories">Repository</a>.
