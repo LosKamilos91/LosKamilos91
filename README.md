@@ -100,16 +100,12 @@
 
 ---
 
-<!-- 
-
-> **MY PROGRAMMING SKILLS**
-
 <p>
-	&nbsp<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" title="JavaScript" width="42px"/>&nbsp
-	&nbsp<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="HTML" width="42px"/>&nbsp
-	&nbsp<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" title="CSS" width="42px"/>&nbsp
-	&nbsp<img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" title="C#" width="42px"/>&nbsp
+  		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LosKamilos91&show_icons=true&show=prs_merged,prs_merged_percentage&theme=discord_old_blurple&hide_border=true&border_radius=0" />
+ 		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LosKamilos91&layout=compact&langs_count=8&theme=discord_old_blurple&hide_border=true&border_radius=0" />
 </p>
+
+<!-- 
 
 # HOBBY
 <p align="center">
@@ -119,16 +115,8 @@
 	<img width="64" src="https://cdn-icons-png.flaticon.com/512/1005/1005142.png">&nbsp
 </p>
 
-# ADD
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LosKamilos91&repo=qa_cypress_e2e_project)](https://github.com/LosKamilos91/qa_cypress_e2e_project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LosKamilos91&repo=qa_cypress_e2e_article_flow)](https://github.com/LosKamilos91/qa_cypress_e2e_article_flow)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LosKamilos91&repo=postman=true)](https://lively-station-722503.postman.co/workspace/Bravo-%5BPractice-Postman%5D~a7c87cd6-c33a-4156-8749-56333f544af0/collection/30817307-8ed64240-f62f-4a2b-a94a-1e353a2c3a9d?action=share&creator=30817307)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LosKamilos91)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LosKamilos91&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-## USEFULL
+## USEFUL
 > [!tip]  
 > Highlights information that users should take into account, even when skimming.
 
