@@ -101,8 +101,8 @@
 ---
 
 <p>
-  		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LosKamilos91&show_icons=true&show=prs_merged,prs_merged_percentage&theme=discord_old_blurple&hide_border=true&border_radius=0" />
- 		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LosKamilos91&layout=compact&langs_count=8&theme=discord_old_blurple&hide_border=true&border_radius=0" />
+  		<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=LosKamilos91&show_icons=true&show=prs_merged,prs_merged_percentage&theme=discord_old_blurple&hide_border=true&border_radius=0" />
+ 		<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LosKamilos91&layout=compact&langs_count=8&theme=discord_old_blurple&hide_border=true&border_radius=0" />
 </p>
 
 <!-- 
