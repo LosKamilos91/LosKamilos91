@@ -11,7 +11,7 @@
 </p>
 
 > **Languages:**
-> ${\color[RGB]{155,127,0}English:} \space \color[RGB]{255,193,23}Intermediate$, ${\color[RGB]{155,127,0}Polish}: \space \color[RGB]{255,193,23} Native$ 
+> ${\color[RGB]{155,127,0}English:}$ **Intermediate**, ${\color[RGB]{155,127,0}Polish}:$ **Native**
 
 <p align="justify">Hi. My name is <b>Kamil</b>. I am currently a <b>QA Engineer</b>. As a tester, I am committed to my daily duties, striving to provide the best possible product quality. I am a person who enjoys new challenges and is eager to learn new technologies. My professional path as a QA Engineer began at Mate Academy, where I had the opportunity to work on various projects. While working at Mate Academy, I gained solid skills in identifying and solving problems, meticulousness in testing, as well as the ability to collaborate with a team.
 </p>
@@ -101,8 +101,8 @@
 ---
 
 <p>
-  		<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=LosKamilos91&show_icons=true&show=prs_merged,prs_merged_percentage&theme=discord_old_blurple&hide_border=true&border_radius=0" />
- 		<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LosKamilos91&layout=compact&langs_count=8&theme=discord_old_blurple&hide_border=true&border_radius=0" />
+  		<img height=260 align="center" src="https://github-readme-stats.vercel.app/api?username=LosKamilos91&show_icons=true&show=prs_merged,prs_merged_percentage&theme=graywhite&hide_border=true&border_radius=0" />
+ 		<img height=130 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LosKamilos91&layout=compact&langs_count=8&theme=graywhite&hide_border=true&border_radius=0" />
 </p>
 
 <!-- 
