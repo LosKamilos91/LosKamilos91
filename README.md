@@ -42,9 +42,9 @@
 - :books: All of my projects are available [my repository](https://github.com/LosKamilos91?tab=repositories)
 - :mailbox_with_no_mail: Click the <a href="mailto:k.orzechowski.dev@gmail.com?">link</a> if you want to send me an email
 - :dart: I practice my skills on [Codewars](https://www.codewars.com/users/Los.Kamilos)
-- :pencil2: Microsoft Office skills: Word, Excel, PowerPoint,
-- :triangular_flag_on_post: Database: SQLite, DBeaver, MySQL,
-- :pushpin: Agenda: **PostgreSQL**, **JSON**, **PlayWright**, **Selenium**, **TypeScript**, **PHP**,
+- :pushpin: Agenda for 2024: **PostgreSQL**, **JSON**, **PlayWright**, **Selenium**, **TypeScript**,
+- :pencil2: I also know: MySQL, BitBucket, Microsoft Word, Microsoft Excel, Microsoft PowerPoint,
+- :mortar_board: Agenda for the future: **PHP**, **Robot Framework**, **GraphQL**, **Jenkins**, 
 
 > **MY TESTING SKILLS**
 
