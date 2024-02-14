@@ -37,7 +37,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-- :bulb: I'm currently working on: [gym-calculator](https://github.com/LosKamilos91/gym-calculator)
+- :bulb: I'm currently working on: ...
 - :seedling: I'm currently learning: **JavaScript**, **Node.js**, **Jest**
 - :books: All of my projects are available [my repository](https://github.com/LosKamilos91?tab=repositories)
 - :mailbox_with_no_mail: Click the <a href="mailto:k.orzechowski.dev@gmail.com?">link</a> if you want to send me an email
