@@ -35,16 +35,17 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 - :bulb: I'm currently working on: ...
-- :seedling: I'm currently learning: **JavaScript**, **Node.js**, **Jest**
+- :seedling: I'm currently learning: **JavaScript**, **PostgreSQL**, **Jest**
 - :books: All of my projects are available [my repository](https://github.com/LosKamilos91?tab=repositories)
 - :mailbox_with_no_mail: Click the <a href="mailto:k.orzechowski.dev@gmail.com?">link</a> if you want to send me an email
 - :dart: I practice my skills on [Codewars](https://www.codewars.com/users/Los.Kamilos)
-- :pushpin: Agenda for 2024: **PostgreSQL**, **JSON**, **PlayWright**, **Selenium**, **TypeScript**,
-- :pencil2: I also know: MySQL, BitBucket, Microsoft Word, Microsoft Excel, Microsoft PowerPoint,
-- :mortar_board: Agenda for the future: **PHP**, **Robot Framework**, **GraphQL**, **Jenkins**, 
+- :pushpin: Agenda for 2024: **Robot Framework**, **Express.js**,
+- :pencil2: I also know: MySQL, BitBucket, Confluence, Microsoft Word, Microsoft Excel, Microsoft PowerPoint,
+- :mortar_board: Agenda for the future:  **Jenkins**,  **React.js**, **SOAP**, **Selenium**, **JSON**, **PlayWright**, **TypeScript**, 
 
 > **MY TESTING SKILLS**
 
