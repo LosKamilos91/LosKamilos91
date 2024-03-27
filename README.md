@@ -38,7 +38,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-- :bulb: I'm currently working on: [gym-project](https://github.com/LosKamilos91/gym-project), AQE
+- :bulb: I'm currently working on: [gym-project](https://github.com/LosKamilos91/gym-project), [AQE](https://github.com/LosKamilos91/semper-avanti)
 - :seedling: I'm currently learning: **JavaScript**, **PostgreSQL**, **Jest**
 - :books: All of my projects are available [my repository](https://github.com/LosKamilos91?tab=repositories)
 - :mailbox_with_no_mail: Click the <a href="mailto:k.orzechowski.dev@gmail.com?">link</a> if you want to send me an email
