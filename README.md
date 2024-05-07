@@ -1,4 +1,4 @@
-<h1 align="center">Hi :raised_hand: I'm ${\color[RGB]{155,127,0}Kamil}$ and I'm ${\color[RGB]{155,127,0}QA \space Engineer}$</h1>
+<h2 align="center">Hi :raised_hand: I'm <i>Kamil</i> and I'm <i>QA Engineer</i></h2>
 
 <p align="center"><img align="center" src="https://cdni.iconscout.com/illustration/premium/thumb/man-coder-programming-on-computer-7771249-6200255.png"></img></p>
 
@@ -11,13 +11,13 @@
 </p>
 
 > **Languages:**
-> ${\color[RGB]{155,127,0}English:}$ **Intermediate**, ${\color[RGB]{155,127,0}Polish}:$ **Native**
+> English: **Intermediate**, Polish **Native**
 
 <p align="justify">Hi. My name is <b>Kamil</b>. I am currently a <b>QA Engineer</b>. As a tester, I am committed to my daily duties, striving to provide the best possible product quality. I am a person who enjoys new challenges and is eager to learn new technologies. My professional path as a QA Engineer began at Mate Academy, where I had the opportunity to work on various projects. While working at Mate Academy, I gained solid skills in identifying and solving problems, meticulousness in testing, as well as the ability to collaborate with a team.
 </p>
 
 <a href="https://www.facebook.com/kamil.orzechowski.39"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" title="Facebook"/></a>
-<a href="https://www.linkedin.com/in/kamil-orzechowski-0b76121ab"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" title="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/kamil-orzechowski91"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" title="LinkedIn"/></a>
 <a href="https://discord.com/channels/LosKamilos#8157"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" title="Discord"/></a>
 <a href="https://stackoverflow.com/users/20157506/nino-91"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16.svg?style=flat-square&logo=stack-overflow&logoColor=white" title="Stackoverflow"/></a>
 
