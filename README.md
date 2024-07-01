@@ -1,5 +1,13 @@
 <p align="center"><img align="center" src="https://cdni.iconscout.com/illustration/premium/thumb/man-coder-programming-on-computer-7771249-6200255.png"></img></p>
 
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=LosKamilos91&color=ff69b4&style=for-the-badge"/>
+ <img src="https://img.shields.io/github/followers/LosKamilos91?style=for-the-badge"/>
+ <img src="https://img.shields.io/github/stars/LosKamilos91?color=%23FECC00&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/Programming%20level-Junior-green?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/QA Engineer%20-Junior-orange?style=for-the-badge"/>
+</p>
+
 Hello everyone :raised_hand: my name is **Kamil** and I am a **QA Engineer**. My career path as a tester started at the beginning of 2023. As a tester, I am committed to my daily duties, striving to ensure the best product quality. In my day job I create **manual** and **automated** tests (Cypress, Postman). At the end of 2023, I got an internship at [Mate Academy](https://mate.academy/pl), where I learned the basics of testing. I have several projects to my credit, which I did during my internship at Mate Academy, as well as some of my projects:
 1. **Swag Labs**
    - Page: [Swag Labs](https://www.saucedemo.com/)
