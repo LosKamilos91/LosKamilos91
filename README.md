@@ -1,14 +1,24 @@
 <p align="center"><img align="center" src="https://cdni.iconscout.com/illustration/premium/thumb/man-coder-programming-on-computer-7771249-6200255.png"></img></p>
 
+### <p align="center">Hello everyone :raised_hand:</p>
+
+My name is **Kamil** and I am a **QA Engineer**. My career path as a tester started at the beginning of 2023. As a tester, I am committed to my daily duties, striving to ensure the best product quality. I perform manual and automated tests for web and mobile applications on a daily basis. At the end of 2023, I got an internship at [Mate Academy](https://mate.academy/pl), where I learned the basics of testing and performed various tasks.   I have several projects to my credit which I completed during my internship at Mate Academy and several of its own projects.
+
+<a href="https://www.facebook.com/kamil.orzechowski.39"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" title="Facebook"/></a>
+<a href="https://www.linkedin.com/in/kamil-orzechowski91"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" title="LinkedIn"/></a>
+<a href="https://discord.com/channels/LosKamilos#8157"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" title="Discord"/></a>
+<a href="https://stackoverflow.com/users/20157506/nino-91"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16.svg?style=flat-square&logo=stack-overflow&logoColor=white" title="Stackoverflow"/></a>
+
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=LosKamilos91&color=ff69b4&style=for-the-badge"/>
- <img src="https://img.shields.io/github/followers/LosKamilos91?style=for-the-badge"/>
- <img src="https://img.shields.io/github/stars/LosKamilos91?color=%23FECC00&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/Programming%20level-Junior-green?style=for-the-badge"/>
  <img src="https://img.shields.io/badge/QA Engineer%20-Junior-orange?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/Programming%20level-Junior-green?style=for-the-badge"/>
+ <img src="https://komarev.com/ghpvc/?username=LosKamilos91&color=ff69b4&style=for-the-badge"/>
 </p>
 
-Hello everyone :raised_hand: my name is **Kamil** and I am a **QA Engineer**. My career path as a tester started at the beginning of 2023. As a tester, I am committed to my daily duties, striving to ensure the best product quality. In my day job I create **manual** and **automated** tests (Cypress, Postman). At the end of 2023, I got an internship at [Mate Academy](https://mate.academy/pl), where I learned the basics of testing. I have several projects to my credit, which I did during my internship at Mate Academy, as well as some of my projects:
+> **Languages:**
+> English: **Intermediate**, Polish **Native**
+
+
 1. **Swag Labs**
    - Page: [Swag Labs](https://www.saucedemo.com/)
    - Example Checklists: [Checklist #1](https://docs.google.com/spreadsheets/d/1IzQsIX0TzsAKwfiWk_sXKYPQgEHASn6IN4Jd3-2D7OQ/edit?gid=0#gid=0), [Checklist #2](https://docs.google.com/spreadsheets/d/1xgmjxiCMPFuZY7wxhfH6RAwhJMdrKBPbbYYznDImpk4/edit?gid=0#gid=0)
