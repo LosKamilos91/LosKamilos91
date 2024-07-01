@@ -18,6 +18,20 @@ My name is **Kamil** and I am a **QA Engineer**. My career path as a tester star
 > **Languages:**
 > English: **Intermediate**, Polish **Native**
 
+#### More About Me
+
+- :file_folder: Mate Academy projects: soon
+- :pushpin: My projects: soon
+- :bulb: I'm currently working on: [juice-shop](https://github.com/LosKamilos91/juice-shop),
+- :seedling: I'm currently learning: **JavaScript**,
+- :books: All of my projects are available on [my repository](https://github.com/LosKamilos91?tab=repositories),
+- :dart: I practice my skills on [Codewars](https://www.codewars.com/users/Los.Kamilos),
+- :pencil2: I also know: Microsoft Word, Microsoft Excel, Microsoft PowerPoint,
+- :pencil: Agenda for 2024: soon,
+- :mortar_board: Agenda for the future:  soon.
+- :mailbox_with_no_mail: Click the <a href="mailto:k.orzechowski.dev@gmail.com?">link</a> if you want to send me an email,
+
+
 
 1. **Swag Labs**
    - Page: [Swag Labs](https://www.saucedemo.com/)
