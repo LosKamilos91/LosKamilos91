@@ -20,7 +20,7 @@ My name is **Kamil** and I am a **QA Engineer**. My career path as a tester star
 
 #### More About Me
 
-- :file_folder: Mate Academy projects: [swag-labs](https://github.com/LosKamilos91/swag-labs),
+- :file_folder: Mate Academy projects: [swag-labs](https://github.com/LosKamilos91/swag-labs), [Juice Shop](https://github.com/LosKamilos91/juice-shop), [JPet Store](https://github.com/LosKamilos91/jpet-store), [Conduit](https://github.com/LosKamilos91/conduit)
 - :pushpin: My projects: soon
 - :bulb: I'm currently working on: [juice-shop](https://github.com/LosKamilos91/juice-shop),
 - :seedling: I'm currently learning: **JavaScript**,
