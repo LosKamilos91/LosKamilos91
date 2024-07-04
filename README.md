@@ -18,7 +18,7 @@ My name is **Kamil** and I am a **QA Engineer**. My career path as a tester star
 > **Languages:**
 > English: **Intermediate**, Polish **Native**
 
-#### More About Me
+#### More About Me:
 
 - :file_folder: Mate Academy projects: [swag-labs](https://github.com/LosKamilos91/swag-labs), [juice-shop](https://github.com/LosKamilos91/juice-shop), [jpet-store](https://github.com/LosKamilos91/jpet-store), [conduit](https://github.com/LosKamilos91/conduit)
 - :pushpin: My projects: soon
@@ -30,3 +30,14 @@ My name is **Kamil** and I am a **QA Engineer**. My career path as a tester star
 - :pencil: Agenda for 2024: soon,
 - :mortar_board: Agenda for the future:  soon.
 - :mailbox_with_no_mail: Click the <a href="mailto:k.orzechowski.dev@gmail.com?">link</a> if you want to send me an email,
+
+#### Test Design Techniques of which I use:
+![Equivalence Class Technique](https://img.shields.io/badge/-Equivalence%20class%20technique-696969?style=for-the-badge)
+![Boundary value testing](https://img.shields.io/badge/-Boundary%20value%20testing-696969?style=for-the-badge)
+![Decision table](https://img.shields.io/badge/-Decision%20table-696969?style=for-the-badge)
+![State transition diagram](https://img.shields.io/badge/-State%20transition%20diagram-696969?style=for-the-badge)
+![Pairwise testing](https://img.shields.io/badge/-Pairwise%20testing-696969?style=for-the-badge)
+![Risk Analisis](https://img.shields.io/badge/-Risk%20Analisis-696969?style=for-the-badge)
+![Permission testing](https://img.shields.io/badge/-Permission%20testing-696969?style=for-the-badge)
+![RTM](https://img.shields.io/badge/-RTM-696969?style=for-the-badge)
+![A/B](https://img.shields.io/badge/-A/B-696969?style=for-the-badge)
