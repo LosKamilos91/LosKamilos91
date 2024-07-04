@@ -1,8 +1,21 @@
 <p align="center"><img align="center" src="https://cdni.iconscout.com/illustration/premium/thumb/man-coder-programming-on-computer-7771249-6200255.png"></img></p>
 
-### <p align="center">Hello everyone :raised_hand:</p>
+<p>
+&nbsp <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="35px"/> &nbsp
+&nbsp <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="35px"/> &nbsp
+&nbsp <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" width="35px"/> &nbsp
+&nbsp <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="35px"/> &nbsp
+&nbsp <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png" width="35px"/> &nbsp
+&nbsp <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" width="35px"/> &nbsp
+&nbsp <img align="right" width="35" src="https://cdn-icons-png.flaticon.com/512/502/502142.png"> &nbsp
+&nbsp <img align="right" width="35" src="https://cdn-icons-png.flaticon.com/512/3379/3379077.png"> &nbsp
+&nbsp <img align="right" width="35" src="https://cdn-icons-png.flaticon.com/512/2964/2964514.png"> &nbsp
+&nbsp <img align="right" width="35" src="https://cdn-icons-png.flaticon.com/512/1005/1005142.png"> &nbsp
+</p>
 
-My name is **Kamil** and I am a **QA Engineer**. My career path as a tester started at the beginning of 2023. As a tester, I am committed to my daily duties, striving to ensure the best product quality. I perform manual and automated tests for web and mobile applications on a daily basis. At the end of 2023, I got an internship at [Mate Academy](https://mate.academy/pl), where I learned the basics of testing and performed various tasks.   I have several projects to my credit which I completed during my internship at Mate Academy and several of its own projects.
+### Hello Everyone :raised_hand:
+
+My name is **Kamil** and I am a **QA Engineer**. My career path as a tester started at the beginning of 2023. As a tester, I am committed to my daily duties, striving to ensure the best product quality. I perform manual and automated tests for web and mobile applications on a daily basis. At the end of 2023, I got an internship at [Mate Academy](https://mate.academy/pl), where I learned the basics of testing and performed various tasks. I have several projects to my credit which I completed during my internship at Mate Academy and several of its own projects.
 
 <a href="https://www.facebook.com/kamil.orzechowski.39"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" title="Facebook"/></a>
 <a href="https://www.linkedin.com/in/kamil-orzechowski91"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" title="LinkedIn"/></a>
@@ -31,6 +44,14 @@ My name is **Kamil** and I am a **QA Engineer**. My career path as a tester star
 - :mortar_board: Agenda for the future:  soon.
 - :mailbox_with_no_mail: Click the <a href="mailto:k.orzechowski.dev@gmail.com?">link</a> if you want to send me an email,
 
+## My Skills
+![Decomposition](https://img.shields.io/badge/-Decomposition-6A5ACD?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/-Test%20Case-6A5ACD?style=for-the-badge)
+![Bug Reports](https://img.shields.io/badge/-Bug%20Reports-6A5ACD?style=for-the-badge)
+![Checklists](https://img.shields.io/badge/-Checklists-6A5ACD?style=for-the-badge)
+![Test Plan](https://img.shields.io/badge/-Test%20Plan-6A5ACD?style=for-the-badge)
+![Test Reports](https://img.shields.io/badge/-Test%20Result%20Reports-6A5ACD?style=for-the-badge)
+
 #### Test Design Techniques of which I use:
 ![Equivalence Class Technique](https://img.shields.io/badge/-Equivalence%20class%20technique-696969?style=for-the-badge)
 ![Boundary value testing](https://img.shields.io/badge/-Boundary%20value%20testing-696969?style=for-the-badge)
@@ -41,3 +62,10 @@ My name is **Kamil** and I am a **QA Engineer**. My career path as a tester star
 ![Permission testing](https://img.shields.io/badge/-Permission%20testing-696969?style=for-the-badge)
 ![RTM](https://img.shields.io/badge/-RTM-696969?style=for-the-badge)
 ![A/B](https://img.shields.io/badge/-A/B-696969?style=for-the-badge)
+
+#### The tests I perform:
+![Manual](https://img.shields.io/badge/-Manual-9e285d?style=for-the-badge "Manual Testing")
+![Automation](https://img.shields.io/badge/-Automation-9e285d?style=for-the-badge "Automation Testing")
+![Web](https://img.shields.io/badge/-Web-9e285d?style=for-the-badge "Web Testing")
+![API](https://img.shields.io/badge/-API-9e285d?style=for-the-badge "API Testing")
+![Mobile](https://img.shields.io/badge/-Mobile-9e285d?style=for-the-badge "Mobile Testing")
