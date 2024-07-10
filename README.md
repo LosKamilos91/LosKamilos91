@@ -69,3 +69,10 @@ My name is **Kamil** and I am a **QA Engineer**. My career path as a tester star
 ![Web](https://img.shields.io/badge/-Web-9e285d?style=for-the-badge "Web Testing")
 ![API](https://img.shields.io/badge/-API-9e285d?style=for-the-badge "API Testing")
 ![Mobile](https://img.shields.io/badge/-Mobile-9e285d?style=for-the-badge "Mobile Testing")
+
+## My Statistics
+
+<p>
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=LosKamilos91&show_icons=true&show=prs_merged,prs_merged_percentage&theme=graywhite&hide_border=true&border_radius=0" />
+   <img height=120 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LosKamilos91&layout=compact&langs_count=8&theme=graywhite&hide_border=true&border_radius=0" />
+</p>
