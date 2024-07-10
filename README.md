@@ -30,6 +30,24 @@ My name is **Kamil** and I am a **QA Engineer**. My career path as a tester star
 > **Languages:**
 > English: **Intermediate**, Polish **Native**
 
+#### Technologies & Frameworks
+<p>
+ &nbsp <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="35px"/> &nbsp
+ &nbsp <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="35px"/> &nbsp
+ &nbsp <img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" width="35px"/> &nbsp
+ &nbsp <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="35px"/> &nbsp
+ &nbsp <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="35px"/> &nbsp
+ &nbsp <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="35px"/> &nbsp
+ &nbsp <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="35px"/> &nbsp
+ &nbsp <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="35px"/> &nbsp
+ &nbsp <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="35px"/> &nbsp
+ &nbsp <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" width="35px"/> &nbsp
+ &nbsp <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="35px"/> &nbsp
+ &nbsp <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" width="35px"/> &nbsp
+ &nbsp <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="35px"/> &nbsp
+ &nbsp <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="35px"/> &nbsp
+</p>
+
 #### More About Me:
 
 - :file_folder: Mate Academy projects: [swag-labs](https://github.com/LosKamilos91/swag-labs), [juice-shop](https://github.com/LosKamilos91/juice-shop), [jpet-store](https://github.com/LosKamilos91/jpet-store), [conduit](https://github.com/LosKamilos91/conduit)
@@ -76,31 +94,7 @@ My name is **Kamil** and I am a **QA Engineer**. My career path as a tester star
    <img height=120 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LosKamilos91&layout=compact&langs_count=8&theme=graywhite&hide_border=true&border_radius=0" />
 </p>
 
-
-
 <!-- Comments
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-CD5C5C?style=flat-square)
-![Terminal](https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
-![DevTools](https://img.shields.io/badge/-Devtools-BC8F8F?style=flat-square)
-![SCRUM](https://img.shields.io/badge/-SCRUM-b59647?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=forflat-square&logo=postman&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square&logo=testrail&logoColor=white)
-![TestRail](https://img.shields.io/badge/QMetry-65C179?style=flat-square&logo=qmetry&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 
 ## USEFUL
 > [!tip]  
@@ -114,7 +108,6 @@ My name is **Kamil** and I am a **QA Engineer**. My career path as a tester star
 
 > [!warning]  
 > Critical content demanding immediate user attention due to potential risks.
-
 
 -->
 
