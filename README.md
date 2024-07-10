@@ -1,11 +1,10 @@
 <p align="center"><img align="center" src="https://cdni.iconscout.com/illustration/premium/thumb/man-coder-programming-on-computer-7771249-6200255.png"></img></p>
 
 <p>
-&nbsp <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="35px"/> &nbsp
 &nbsp <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="35px"/> &nbsp
-&nbsp <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" width="35px"/> &nbsp
+&nbsp <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="35px"/> &nbsp
+&nbsp <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="35px"/> &nbsp
 &nbsp <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="35px"/> &nbsp
-&nbsp <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png" width="35px"/> &nbsp
 &nbsp <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" width="35px"/> &nbsp
 &nbsp <img align="right" width="35" src="https://cdn-icons-png.flaticon.com/512/502/502142.png"> &nbsp
 &nbsp <img align="right" width="35" src="https://cdn-icons-png.flaticon.com/512/3379/3379077.png"> &nbsp
@@ -73,7 +72,7 @@ My name is **Kamil** and I am a **QA Engineer**. My career path as a tester star
 ## My Statistics
 
 <p>
-    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=LosKamilos91&show_icons=true&show=prs_merged,prs_merged_percentage&theme=graywhite&hide_border=true&border_radius=0" />
+   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=LosKamilos91&show_icons=true&show=prs_merged,prs_merged_percentage&theme=graywhite&hide_border=true&border_radius=0" />
    <img height=120 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LosKamilos91&layout=compact&langs_count=8&theme=graywhite&hide_border=true&border_radius=0" />
 </p>
 
