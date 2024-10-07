@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://cdni.iconscout.com/illustration/premium/thumb/man-coder-programming-on-computer-7771249-6200255.png"></img></p>
+<p align="center"><img align="center" src="https://i.imgur.com/fBwjEzr.jpeg"</img></p>
 
 <p>
 &nbsp <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="35px"/> &nbsp
