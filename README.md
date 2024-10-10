@@ -22,6 +22,27 @@ My name is Kamil and I am a QA engineer. My career path as a tester began in ear
 
 > English: **Intermediate**, Polish **Native**
 
+**MY TEST SKILLS**
+
+![Decomposition](https://img.shields.io/badge/-Decomposition-6A5ACD?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/-Test%20Case-6A5ACD?style=for-the-badge)
+![Bug Reports](https://img.shields.io/badge/-Bug%20Reports-6A5ACD?style=for-the-badge)
+![Checklists](https://img.shields.io/badge/-Checklists-6A5ACD?style=for-the-badge)
+![Test Plan](https://img.shields.io/badge/-Test%20Plan-6A5ACD?style=for-the-badge)
+![Test Reports](https://img.shields.io/badge/-Test%20Result%20Reports-6A5ACD?style=for-the-badge)
+
+**TEST DESIGN TECHNIQUES WHICH I USE**
+
+![Equivalence Class Technique](https://img.shields.io/badge/-Equivalence%20class%20technique-696969?style=for-the-badge)
+![Boundary value testing](https://img.shields.io/badge/-Boundary%20value%20testing-696969?style=for-the-badge)
+![Decision table](https://img.shields.io/badge/-Decision%20table-696969?style=for-the-badge)
+![State transition diagram](https://img.shields.io/badge/-State%20transition%20diagram-696969?style=for-the-badge)
+![Pairwise testing](https://img.shields.io/badge/-Pairwise%20testing-696969?style=for-the-badge)
+![Risk Analisis](https://img.shields.io/badge/-Risk%20Analisis-696969?style=for-the-badge)
+![Permission testing](https://img.shields.io/badge/-Permission%20testing-696969?style=for-the-badge)
+![RTM](https://img.shields.io/badge/-RTM-696969?style=for-the-badge)
+![A/B](https://img.shields.io/badge/-A/B-696969?style=for-the-badge)
+
 #### More About Me:
 
 - :file_folder: Mate Academy projects: [Conduit](https://github.com/LosKamilos91/conduit),
@@ -36,47 +57,7 @@ My name is Kamil and I am a QA engineer. My career path as a tester began in ear
 - :mailbox_with_no_mail: Click the <a href="mailto:k.orzechowski.dev@gmail.com?">link</a> if you want to send me an email,
 
 
-
-
 <!-- Comments
-
-
-<p>
-&nbsp <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="35px"/> &nbsp
-&nbsp <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="35px"/> &nbsp
-&nbsp <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="35px"/> &nbsp
-&nbsp <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="35px"/> &nbsp
-&nbsp <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" width="35px"/> &nbsp
-</p>
-
-## My Test Skills
-![Decomposition](https://img.shields.io/badge/-Decomposition-6A5ACD?style=for-the-badge)
-![Test Cases](https://img.shields.io/badge/-Test%20Case-6A5ACD?style=for-the-badge)
-![Bug Reports](https://img.shields.io/badge/-Bug%20Reports-6A5ACD?style=for-the-badge)
-![Checklists](https://img.shields.io/badge/-Checklists-6A5ACD?style=for-the-badge)
-![Test Plan](https://img.shields.io/badge/-Test%20Plan-6A5ACD?style=for-the-badge)
-![Test Reports](https://img.shields.io/badge/-Test%20Result%20Reports-6A5ACD?style=for-the-badge)
-
-#### Test Design Techniques of which I use:
-![Equivalence Class Technique](https://img.shields.io/badge/-Equivalence%20class%20technique-696969?style=for-the-badge)
-![Boundary value testing](https://img.shields.io/badge/-Boundary%20value%20testing-696969?style=for-the-badge)
-![Decision table](https://img.shields.io/badge/-Decision%20table-696969?style=for-the-badge)
-![State transition diagram](https://img.shields.io/badge/-State%20transition%20diagram-696969?style=for-the-badge)
-![Pairwise testing](https://img.shields.io/badge/-Pairwise%20testing-696969?style=for-the-badge)
-![Risk Analisis](https://img.shields.io/badge/-Risk%20Analisis-696969?style=for-the-badge)
-![Permission testing](https://img.shields.io/badge/-Permission%20testing-696969?style=for-the-badge)
-![RTM](https://img.shields.io/badge/-RTM-696969?style=for-the-badge)
-![A/B](https://img.shields.io/badge/-A/B-696969?style=for-the-badge)
-
-### My Statistics
-
-<p>
-   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=LosKamilos91&show_icons=true&show=prs_merged,prs_merged_percentage&theme=graywhite&hide_border=true&border_radius=0" />
-   <img height=120 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LosKamilos91&layout=compact&langs_count=8&theme=graywhite&hide_border=true&border_radius=0" />
-</p>
-
-
-
 
 #### Technologies & Frameworks
 <p>
