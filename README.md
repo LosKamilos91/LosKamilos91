@@ -45,7 +45,7 @@ My name is Kamil and I am a QA engineer. My career path as a tester began in ear
 
 #### More About Me:
 
-- :file_folder: Mate Academy projects: [Conduit](https://github.com/LosKamilos91/conduit),
+- :file_folder: Mate Academy projects: [conduit](https://github.com/LosKamilos91/conduit), [swag-labs](https://github.com/LosKamilos91/swag-labs)
 - :pushpin: My projects: [gym-calculators](https://github.com/LosKamilos91/gym-calculators)
 - :bulb: I'm currently working on ...,
 - :seedling: I'm currently learning: **JavaScript**,
